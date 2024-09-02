@@ -7,7 +7,7 @@ local Player = game.Players.LocalPlayer
 OrionLib:MakeNotification({
 	Name = "Discord (Add For Key)",
 	Content = "discord.gg/J4THB9aK",
-	Image = "rbxassetid://12117215397",
+	Image = "rbxassetid://1325644123",
 	Time = 10
 })
 
@@ -28,7 +28,7 @@ local function CorrectKeyNotif()
     OrionLib:MakeNotification({
         Name = "Correct Key!",
         Content = "Loading Script Please Wait.",
-        Image = "rbxassetid://12117215397",
+        Image = "rbxassetid://1325644123",
         Time = 5
 })
 end
@@ -37,14 +37,14 @@ local function IncorrectKeyNotif()
     OrionLib:MakeNotification({
         Name = "Incorrect Key!",
         Content = "Invalid Key Try Again.",
-        Image = "rbxassetid://12117215397",
+        Image = "rbxassetid://1325644123",
         Time = 5
 })
 end
 
 local Tab = Window:MakeTab({
 	Name = "Home",
-	Icon = "rbxassetid://12053823591",
+	Icon = "rbxassetid://1325644123",
 	PremiumOnly = false
 })
 
