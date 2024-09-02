@@ -3,9 +3,9 @@
 ]]
 -- Configuration
 local GKey = "BDG2Lit" -- change to whatever
-local TextLabelText1 = "Key System" -- change to whatever
-local TextLabelText2 = "Join Discord! .gg/" -- change to whatever!
-local TextFontAll = "FredokaOne" -- Enter Any Font!
+local TextLabelText1 = "BDG Hub Key System" -- change to whatever
+local TextLabelText2 = "Add My Discord/" -- change to whatever!
+local TextFontAll = "xbl_bdg" -- Enter Any Font!
 
 -- This will only load the script, not execute it.
 local executeScript = loadstring(game:HttpGet('https://raw.githubusercontent.com/bdgzss/BDG/main/BDG%20Hub'))()
